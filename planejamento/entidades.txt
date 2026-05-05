@@ -1,3 +1,5 @@
+LEMBRETE: refazer depois, focar na visão geral do sistea primeiro!
+
 Stock
 	- Product product
 	- int amount

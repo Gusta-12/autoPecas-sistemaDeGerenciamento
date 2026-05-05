@@ -1,0 +1,14 @@
+- Produtos
+    - Categoria (Pastilhas, Discos, Cilindros, Fluídos, etc.)
+    - Código
+    - Marca
+    - Aplicação
+    - Status (Pedir/Não pedir)
+    - Detalhes (opcional, um campo com observações sobre algum detalhe do produto)
+- Clientes
+    - Oficina ou Pessoa
+- Distribuidoras
+    - Nome
+    - CNPJ
+    - Vendedor (que nos atende)
+    - Tipos de produtos (Fluídos, Discos, Pastilhas, etc.) (Que possuem o melhor preço)

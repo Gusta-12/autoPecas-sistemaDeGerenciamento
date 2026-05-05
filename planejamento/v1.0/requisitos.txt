@@ -1,0 +1,12 @@
+Requisitos Funcionais:
+	- Cadastrar produtos
+	- Atualizar estoque
+	- Registrar compras e vendas
+	- Informar peças em falta no estoque (e 'marcar para pedir')
+	- Consultar produtos
+	- Padronizar informações de clientes e distribuidoras
+
+Não funcionais:
+	- Fácil de usar (intuitivo)
+	- Rápido
+	- Seguro (sistemas de validações)
